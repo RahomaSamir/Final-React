@@ -1,0 +1,27 @@
+
+.footer {
+    background-color: #dcc181;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    grid-row-start: 3; 
+    grid-row-end: 4;
+  }
+  
+ 
+  .social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .social-links a {
+    color: #000000;
+    font-size: 24px;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .social-links a:hover {
+    color: #929aee;
+  }
+  
